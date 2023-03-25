@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando MG</h1>
 <h3 align="center">A passionate frontend and backend developer from Paraguay</h3>
 
-- 🔭 I’m currently working on <a href="https://frnandmg.me" target="blank">Frnandmg.dev</a>
+- 🔭 I’m currently working on <a href="https://frnandmg.site" target="blank">Frnandmg.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
